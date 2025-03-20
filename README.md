@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/steveweenie/leet-code-practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/steveweenie/leet-code-practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/steveweenie/leet-code-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/steveweenie/leet-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/steveweenie/leet-code-practice/tree/master/0217-contains-duplicate) |
 | [1395-minimum-time-visiting-all-points](https://github.com/steveweenie/leet-code-practice/tree/master/1395-minimum-time-visiting-all-points) |
 ## Hash Table
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/steveweenie/leet-code-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/steveweenie/leet-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/steveweenie/leet-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
