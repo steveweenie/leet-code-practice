@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/steveweenie/leet-code-practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1395-minimum-time-visiting-all-points](https://github.com/steveweenie/leet-code-practice/tree/master/1395-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/steveweenie/leet-code-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/steveweenie/leet-code-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/steveweenie/leet-code-practice/tree/master/0344-reverse-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/steveweenie/leet-code-practice/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
 | ------- |
